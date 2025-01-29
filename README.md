@@ -13,6 +13,4 @@ CSS for styling, with Flexbox and Media Queries for responsiveness.
 JavaScript for implementing dynamic features and handling API requests.
 
 #How to Run:
-Clone this repository:
-https://github.com/your-username/image-search-app.git
 Open the index.html file in your web browser
